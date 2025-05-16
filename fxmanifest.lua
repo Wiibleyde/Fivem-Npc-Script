@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Wiibleyde & Noxelya'
 description 'Script to add a treasure hunt quest to your server.'
-version '1.3.0'
+version '0.1.0'
 
 lua54 'yes'
 
